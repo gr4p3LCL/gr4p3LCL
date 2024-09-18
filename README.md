@@ -1,4 +1,4 @@
-## Language I Use:
+## The Language I Use:
 - [Rust](https://www.rust-lang.org/) (a little bit)
 
 ## My System:
